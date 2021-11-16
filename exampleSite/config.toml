@@ -22,8 +22,8 @@ contact = "Contact"
 [params.hero]
 enable            = true
 bg                = "images/header-bg.jpg"
-title             = "BRING YOUR PRODUCT TO LIGHT"
-subtitle          = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna"
+title             = "PRODUCT"
+subtitle          = "WE have some great stuff"
 btnText           = "Get Started"
 
 # counter
